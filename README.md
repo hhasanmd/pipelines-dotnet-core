@@ -1,4 +1,4 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+#
 [![Build Status](https://dev.azure.com/hhasanmd/dotnetcore-sample/_apis/build/status/dotnetcore-sample-CI?branchName=master)](https://dev.azure.com/hhasanmd/dotnetcore-sample/_build/latest?definitionId=6?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
