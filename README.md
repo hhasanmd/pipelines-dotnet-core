@@ -1,10 +1,10 @@
-[![Build Status](https://dev.azure.com/hhasanmd/dotnetcore-sample/_apis/build/status/dotnetcore-sample-CI?branchName=master)](https://dev.azure.com/hhasanmd/dotnetcore-sample/_build/latest?definitionId=6?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/hhasanmd/dotnetcore-sample/_apis/build/status/dotnetcore-sample-CI?branchName=master)](https://dev.azure.com/hhasanmd/dotnetcore-sample/_build/latest?definitionId=6?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
 |---------|--------------|
+
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=2) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=3) |
